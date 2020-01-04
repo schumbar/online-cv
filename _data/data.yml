@@ -26,6 +26,10 @@ sidebar:
       - idiom: English
         level: Native
 
+    languages:
+      - idiom: Punjabi
+        level: Basic
+
     interests:
       - item: Videogaming
         link:
@@ -41,6 +45,7 @@ career-profile:
     summary: |
       Summarise your career here.
       Second paragraph if required.
+
 education:
     - degree: BS in Computer Science
       university: University of California, Santa Cruz
@@ -74,6 +79,8 @@ experiences:
         Describe your role here.
           - Bullet point
           - Bullet point
+
+
 projects:
     title: Projects
     intro: >
@@ -123,4 +130,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Template Designed by Xiaoying Riley</a>
